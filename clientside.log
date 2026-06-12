@@ -1,0 +1,377 @@
+[19:48:29.0238658] [Init] Failed reading command line: Parameter count mismatch
+[19:48:29.2163351] [info] First Person Settings Loaded
+[19:48:29.2617425] [Connection Request] Sending Failed: 12005
+[19:48:50.1353123] [debug] audio init success
+[19:48:54.3538310] [debug] Hide Interface [BattleMansionEnd]
+[19:48:54.6519425] [debug] Show Interface [GameText]
+[19:48:59.0882451] [debug] Show Interface [Authorization]
+[19:49:07.0494527] [debug] Show Interface [Loading]
+[19:49:10.0628390] [debug] Show Interface [GameText]
+[19:49:10.0703501] [debug] Show Interface [UnansweredRequests]
+[19:49:10.0729163] [debug] Show Interface [GameText]
+[19:49:11.0045496] [debug] Show Interface [Vignette]
+[19:49:11.2320310] [debug] Hide Interface [Vignette]
+[19:49:59.9700211] [debug] Show Interface [MainMenu]
+[19:50:25.7942296] [debug] Show Interface [MainMenu]
+[19:50:39.6160942] [debug] Show Interface [MainMenu]
+[19:50:52.6843182] [debug] Show Interface [MainMenu]
+[19:51:37.7106638] [debug] Show Interface [MainMenu]
+[19:52:31.6980435] [debug] Show Interface [GameText]
+[19:54:07.6727756] [Connection Request] Sending Failed: 12005
+[19:54:13.7332112] [Connection Request] Sending Failed: 12005
+[19:54:19.7923697] [Connection Request] Sending Failed: 12005
+[19:54:25.8497147] [Connection Request] Sending Failed: 12005
+[19:54:31.9031361] [Connection Request] Sending Failed: 12005
+[19:54:37.9633110] [Connection Request] Sending Failed: 12005
+[19:54:44.0248825] [Connection Request] Sending Failed: 12005
+[19:54:50.0909311] [Connection Request] Sending Failed: 12005
+[19:54:56.1546075] [Connection Request] Sending Failed: 12005
+[19:55:02.2133530] [Connection Request] Sending Failed: 12005
+[19:55:08.2686353] [Connection Request] Sending Failed: 12005
+[19:55:14.3293563] [Connection Request] Sending Failed: 12005
+[19:55:20.3906706] [Connection Request] Sending Failed: 12005
+[19:55:26.4590621] [Connection Request] Sending Failed: 12005
+[19:55:32.5244878] [Connection Request] Sending Failed: 12005
+[19:55:38.5904793] [Connection Request] Sending Failed: 12005
+[19:55:44.6483060] [Connection Request] Sending Failed: 12005
+[19:55:50.7034557] [Connection Request] Sending Failed: 12005
+[19:55:56.7621395] [Connection Request] Sending Failed: 12005
+[19:56:02.8260266] [Connection Request] Sending Failed: 12005
+[19:56:08.8925351] [Connection Request] Sending Failed: 12005
+[19:56:14.9581030] [Connection Request] Sending Failed: 12005
+[19:56:21.0168337] [Connection Request] Sending Failed: 12005
+[19:56:27.0903058] [Connection Request] Sending Failed: 12005
+[19:56:33.1590782] [Connection Request] Sending Failed: 12005
+[19:56:39.2277181] [Connection Request] Sending Failed: 12005
+[19:56:45.2943160] [Connection Request] Sending Failed: 12005
+[19:56:51.3630805] [Connection Request] Sending Failed: 12005
+[19:56:57.4277800] [Connection Request] Sending Failed: 12005
+[19:57:03.4990568] [Connection Request] Sending Failed: 12005
+[19:57:09.5635206] [Connection Request] Sending Failed: 12005
+[19:57:15.6319577] [Connection Request] Sending Failed: 12005
+[19:57:21.7082287] [Connection Request] Sending Failed: 12005
+[19:57:27.7743072] [Connection Request] Sending Failed: 12005
+[19:57:33.8406842] [Connection Request] Sending Failed: 12005
+[19:57:39.9078653] [Connection Request] Sending Failed: 12005
+[19:57:45.9752111] [Connection Request] Sending Failed: 12005
+[19:57:52.0432887] [Connection Request] Sending Failed: 12005
+[19:57:58.1123553] [Connection Request] Sending Failed: 12005
+[19:58:04.1776945] [Connection Request] Sending Failed: 12005
+[19:58:10.2451305] [Connection Request] Sending Failed: 12005
+[19:58:16.3104661] [Connection Request] Sending Failed: 12005
+[19:58:22.3812610] [Connection Request] Sending Failed: 12005
+[19:58:28.4495525] [Connection Request] Sending Failed: 12005
+[19:58:34.5104394] [Connection Request] Sending Failed: 12005
+[19:58:40.5751562] [Connection Request] Sending Failed: 12005
+[19:58:46.6375419] [Connection Request] Sending Failed: 12005
+[19:58:52.6982361] [Connection Request] Sending Failed: 12005
+[19:58:58.7619284] [Connection Request] Sending Failed: 12005
+[19:59:04.8327981] [Connection Request] Sending Failed: 12005
+[19:59:10.9044971] [Connection Request] Sending Failed: 12005
+[19:59:16.9709890] [Connection Request] Sending Failed: 12005
+[19:59:23.0413150] [Connection Request] Sending Failed: 12005
+[19:59:29.1063250] [Connection Request] Sending Failed: 12005
+[19:59:35.1754532] [Connection Request] Sending Failed: 12005
+[19:59:41.2389831] [Connection Request] Sending Failed: 12005
+[19:59:47.3048532] [Connection Request] Sending Failed: 12005
+[19:59:53.3690655] [Connection Request] Sending Failed: 12005
+[19:59:59.4392616] [Connection Request] Sending Failed: 12005
+[20:00:05.5052595] [Connection Request] Sending Failed: 12005
+[20:00:11.5752126] [Connection Request] Sending Failed: 12005
+[20:00:17.6407336] [Connection Request] Sending Failed: 12005
+[20:00:23.7107095] [Connection Request] Sending Failed: 12005
+[20:00:29.7867423] [Connection Request] Sending Failed: 12005
+[20:00:35.8577982] [Connection Request] Sending Failed: 12005
+[20:00:41.9222705] [Connection Request] Sending Failed: 12005
+[20:00:47.9846207] [Connection Request] Sending Failed: 12005
+[20:00:54.0550440] [Connection Request] Sending Failed: 12005
+[20:01:00.1206693] [Connection Request] Sending Failed: 12005
+[20:01:06.1927915] [Connection Request] Sending Failed: 12005
+[20:01:12.2592755] [Connection Request] Sending Failed: 12005
+[20:01:18.3210594] [Connection Request] Sending Failed: 12005
+[20:01:24.3858950] [Connection Request] Sending Failed: 12005
+[20:01:30.4512249] [Connection Request] Sending Failed: 12005
+[20:01:36.5238385] [Connection Request] Sending Failed: 12005
+[20:01:42.5924334] [Connection Request] Sending Failed: 12005
+[20:01:48.6679990] [Connection Request] Sending Failed: 12005
+[20:01:54.7354731] [Connection Request] Sending Failed: 12005
+[20:02:00.8048738] [Connection Request] Sending Failed: 12005
+[20:02:06.8718768] [Connection Request] Sending Failed: 12005
+[20:02:12.9318513] [Connection Request] Sending Failed: 12005
+[20:02:19.0027459] [Connection Request] Sending Failed: 12005
+[20:02:25.0646646] [Connection Request] Sending Failed: 12005
+[20:02:31.1312195] [Connection Request] Sending Failed: 12005
+[20:02:37.1999962] [Connection Request] Sending Failed: 12005
+[20:02:43.2662126] [Connection Request] Sending Failed: 12005
+[20:02:49.3334076] [Connection Request] Sending Failed: 12005
+[20:02:55.4067970] [Connection Request] Sending Failed: 12005
+[20:03:01.4703582] [Connection Request] Sending Failed: 12005
+[20:03:07.5342575] [Connection Request] Sending Failed: 12005
+[20:03:13.5986801] [Connection Request] Sending Failed: 12005
+[20:03:19.6604420] [Connection Request] Sending Failed: 12005
+[20:03:25.7280745] [Connection Request] Sending Failed: 12005
+[20:03:31.7943526] [Connection Request] Sending Failed: 12005
+[20:03:37.8618565] [Connection Request] Sending Failed: 12005
+[20:03:43.9216418] [Connection Request] Sending Failed: 12005
+[20:03:49.9856504] [Connection Request] Sending Failed: 12005
+[20:03:56.0575413] [Connection Request] Sending Failed: 12005
+[20:04:02.1342306] [Connection Request] Sending Failed: 12005
+[20:04:08.2076840] [Connection Request] Sending Failed: 12005
+[20:04:14.2730621] [Connection Request] Sending Failed: 12005
+[20:04:20.3423018] [Connection Request] Sending Failed: 12005
+[20:04:26.4271049] [Connection Request] Sending Failed: 12005
+[20:04:32.4927386] [Connection Request] Sending Failed: 12005
+[20:04:38.5527045] [Connection Request] Sending Failed: 12005
+[20:04:44.6138526] [Connection Request] Sending Failed: 12005
+[20:04:50.6811287] [Connection Request] Sending Failed: 12005
+[20:04:56.7436955] [Connection Request] Sending Failed: 12005
+[20:05:02.8316626] [Connection Request] Sending Failed: 12005
+[20:05:05.2113617] [debug] Hide Interface [BattleMansionEnd]
+[20:05:05.4772964] [debug] Show Interface [GameText]
+[20:05:09.9738105] [debug] Show Interface [Authorization]
+[20:05:41.3584050] [debug] Show Interface [Loading]
+[20:05:44.3944301] [debug] Show Interface [GameText]
+[20:05:44.4178246] [debug] Show Interface [UnansweredRequests]
+[20:05:44.4187353] [debug] Show Interface [GameText]
+[20:05:44.4190787] [debug] Show Interface [Vignette]
+[20:05:44.4208412] [debug] Hide Interface [Vignette]
+[20:06:33.8533993] [debug] Hide Interface [BattleMansionEnd]
+[20:06:33.8563327] [debug] Show Interface [GameText]
+[20:06:36.8259644] [debug] Show Interface [Authorization]
+[20:07:55.8636539] [debug] Show Interface [Loading]
+[20:07:58.8761485] [debug] Show Interface [GameText]
+[20:07:58.9012726] [debug] Show Interface [UnansweredRequests]
+[20:07:58.9018724] [debug] Show Interface [GameText]
+[20:08:14.6678938] [debug] Show Interface [MainMenu]
+[20:08:26.5715988] [debug] Show Interface [MainMenu]
+[20:09:59.9613147] [Connection Request] Sending Failed: 12005
+[20:10:06.0323474] [Connection Request] Sending Failed: 12005
+[20:10:12.1001005] [Connection Request] Sending Failed: 12005
+[20:10:18.1757466] [Connection Request] Sending Failed: 12005
+[20:10:24.2519588] [Connection Request] Sending Failed: 12005
+[20:10:30.3302615] [Connection Request] Sending Failed: 12005
+[20:10:36.3973638] [Connection Request] Sending Failed: 12005
+[20:10:42.4717958] [Connection Request] Sending Failed: 12005
+[20:10:48.5345718] [Connection Request] Sending Failed: 12005
+[20:10:54.6088876] [Connection Request] Sending Failed: 12005
+[20:11:00.6757393] [Connection Request] Sending Failed: 12005
+[20:11:06.7386256] [Connection Request] Sending Failed: 12005
+[20:11:12.8062516] [Connection Request] Sending Failed: 12005
+[20:11:18.8773510] [Connection Request] Sending Failed: 12005
+[20:11:24.9459831] [Connection Request] Sending Failed: 12005
+[20:11:31.0111231] [Connection Request] Sending Failed: 12005
+[20:11:37.0802687] [Connection Request] Sending Failed: 12005
+[20:11:43.1493684] [Connection Request] Sending Failed: 12005
+[20:11:49.2161898] [Connection Request] Sending Failed: 12005
+[20:11:55.2833535] [Connection Request] Sending Failed: 12005
+[20:12:01.3461469] [Connection Request] Sending Failed: 12005
+[20:12:07.4154376] [Connection Request] Sending Failed: 12005
+[20:12:13.4764152] [Connection Request] Sending Failed: 12005
+[20:12:19.5493955] [Connection Request] Sending Failed: 12005
+[20:12:25.6187821] [Connection Request] Sending Failed: 12005
+[20:12:31.6869593] [Connection Request] Sending Failed: 12005
+[20:12:37.7521338] [Connection Request] Sending Failed: 12005
+[20:12:43.8198580] [Connection Request] Sending Failed: 12005
+[20:12:49.8879728] [Connection Request] Sending Failed: 12005
+[20:12:55.9542292] [Connection Request] Sending Failed: 12005
+[20:13:02.0273627] [Connection Request] Sending Failed: 12005
+[20:13:08.0935743] [Connection Request] Sending Failed: 12005
+[20:13:14.1530521] [Connection Request] Sending Failed: 12005
+[20:13:20.2148686] [Connection Request] Sending Failed: 12005
+[20:13:26.2883270] [Connection Request] Sending Failed: 12005
+[20:13:32.3522308] [Connection Request] Sending Failed: 12005
+[20:13:38.4172075] [Connection Request] Sending Failed: 12005
+[20:13:44.4881307] [Connection Request] Sending Failed: 12005
+[20:13:50.5520670] [Connection Request] Sending Failed: 12005
+[20:13:56.6161629] [Connection Request] Sending Failed: 12005
+[20:14:02.6866220] [Connection Request] Sending Failed: 12005
+[20:14:08.7580969] [Connection Request] Sending Failed: 12005
+[20:14:14.8179382] [Connection Request] Sending Failed: 12005
+[20:14:20.8802559] [Connection Request] Sending Failed: 12005
+[20:14:26.9493761] [Connection Request] Sending Failed: 12005
+[20:14:33.0172594] [Connection Request] Sending Failed: 12005
+[20:14:39.0868733] [Connection Request] Sending Failed: 12005
+[20:14:45.1539638] [Connection Request] Sending Failed: 12005
+[20:14:51.2245301] [Connection Request] Sending Failed: 12005
+[20:14:57.2950867] [Connection Request] Sending Failed: 12005
+[20:15:03.3627837] [Connection Request] Sending Failed: 12005
+[20:15:09.4334563] [Connection Request] Sending Failed: 12005
+[20:15:15.4939130] [Connection Request] Sending Failed: 12005
+[20:15:21.5587566] [Connection Request] Sending Failed: 12005
+[20:15:27.6327593] [Connection Request] Sending Failed: 12005
+[20:15:33.6934877] [Connection Request] Sending Failed: 12005
+[20:15:39.7584134] [Connection Request] Sending Failed: 12005
+[20:15:45.8206636] [Connection Request] Sending Failed: 12005
+[20:15:51.8818568] [Connection Request] Sending Failed: 12005
+[20:15:57.9501800] [Connection Request] Sending Failed: 12005
+[20:16:04.0083840] [Connection Request] Sending Failed: 12005
+[20:16:10.0756928] [Connection Request] Sending Failed: 12005
+[20:16:16.1372373] [Connection Request] Sending Failed: 12005
+[20:16:22.2073968] [Connection Request] Sending Failed: 12005
+[20:16:28.2759131] [Connection Request] Sending Failed: 12005
+[20:16:34.3354459] [Connection Request] Sending Failed: 12005
+[20:16:40.4041670] [Connection Request] Sending Failed: 12005
+[20:16:46.4756194] [Connection Request] Sending Failed: 12005
+[20:16:52.5454055] [Connection Request] Sending Failed: 12005
+[20:16:58.6152305] [Connection Request] Sending Failed: 12005
+[20:17:04.6799176] [Connection Request] Sending Failed: 12005
+[20:17:10.7391559] [Connection Request] Sending Failed: 12005
+[20:17:16.8074960] [Connection Request] Sending Failed: 12005
+[20:17:22.8743064] [Connection Request] Sending Failed: 12005
+[20:17:28.9424151] [Connection Request] Sending Failed: 12005
+[20:17:35.0105009] [Connection Request] Sending Failed: 12005
+[20:17:41.0802527] [Connection Request] Sending Failed: 12005
+[20:17:47.1510879] [Connection Request] Sending Failed: 12005
+[20:17:53.2260951] [Connection Request] Sending Failed: 12005
+[20:17:59.2948485] [Connection Request] Sending Failed: 12005
+[20:18:05.3633177] [Connection Request] Sending Failed: 12005
+[20:18:11.4318122] [Connection Request] Sending Failed: 12005
+[20:18:17.5046620] [Connection Request] Sending Failed: 12005
+[20:18:23.5747134] [Connection Request] Sending Failed: 12005
+[20:18:29.6426616] [Connection Request] Sending Failed: 12005
+[20:18:35.7066857] [Connection Request] Sending Failed: 12005
+[20:18:41.7758947] [Connection Request] Sending Failed: 12005
+[20:18:47.8395712] [Connection Request] Sending Failed: 12005
+[20:18:53.9096508] [Connection Request] Sending Failed: 12005
+[20:18:59.9742242] [Connection Request] Sending Failed: 12005
+[20:19:06.0406745] [Connection Request] Sending Failed: 12005
+[20:19:12.1178760] [Connection Request] Sending Failed: 12005
+[20:19:18.1879145] [Connection Request] Sending Failed: 12005
+[20:19:24.2576652] [Connection Request] Sending Failed: 12005
+[20:19:30.3285346] [Connection Request] Sending Failed: 12005
+[20:19:36.3946566] [Connection Request] Sending Failed: 12005
+[20:19:42.4591709] [Connection Request] Sending Failed: 12005
+[20:19:48.5231948] [Connection Request] Sending Failed: 12005
+[20:19:54.5870455] [Connection Request] Sending Failed: 12005
+[20:20:00.6513198] [Connection Request] Sending Failed: 12005
+[20:20:06.7167900] [Connection Request] Sending Failed: 12005
+[20:20:12.7873157] [Connection Request] Sending Failed: 12005
+[20:20:18.8527431] [Connection Request] Sending Failed: 12005
+[20:20:24.9233928] [Connection Request] Sending Failed: 12005
+[20:20:30.9916171] [Connection Request] Sending Failed: 12005
+[20:20:37.0626824] [Connection Request] Sending Failed: 12005
+[20:20:43.1296109] [Connection Request] Sending Failed: 12005
+[20:20:49.2002997] [Connection Request] Sending Failed: 12005
+[20:20:55.2624331] [Connection Request] Sending Failed: 12005
+[20:21:01.3320046] [Connection Request] Sending Failed: 12005
+[20:21:07.4045068] [Connection Request] Sending Failed: 12005
+[20:21:13.4683479] [Connection Request] Sending Failed: 12005
+[20:21:19.5397267] [Connection Request] Sending Failed: 12005
+[20:21:25.6087799] [Connection Request] Sending Failed: 12005
+[20:21:31.6858904] [Connection Request] Sending Failed: 12005
+[20:21:37.7476077] [Connection Request] Sending Failed: 12005
+[20:21:43.8120514] [Connection Request] Sending Failed: 12005
+[20:21:49.8825218] [Connection Request] Sending Failed: 12005
+[20:21:55.9449410] [Connection Request] Sending Failed: 12005
+[20:22:02.0187215] [Connection Request] Sending Failed: 12005
+[20:22:08.0850159] [Connection Request] Sending Failed: 12005
+[20:22:14.1497489] [Connection Request] Sending Failed: 12005
+[20:22:20.2147577] [Connection Request] Sending Failed: 12005
+[20:22:26.2864935] [Connection Request] Sending Failed: 12005
+[20:22:32.3600144] [Connection Request] Sending Failed: 12005
+[20:22:38.4273638] [Connection Request] Sending Failed: 12005
+[20:22:44.4933647] [Connection Request] Sending Failed: 12005
+[20:22:50.5626334] [Connection Request] Sending Failed: 12005
+[20:22:56.6306742] [Connection Request] Sending Failed: 12005
+[20:23:02.6924007] [Connection Request] Sending Failed: 12005
+[20:23:08.7617159] [Connection Request] Sending Failed: 12005
+[20:23:14.8264382] [Connection Request] Sending Failed: 12005
+[20:23:20.8947287] [Connection Request] Sending Failed: 12005
+[20:23:26.9603178] [Connection Request] Sending Failed: 12005
+[20:23:33.0292172] [Connection Request] Sending Failed: 12005
+[20:23:39.1043766] [Connection Request] Sending Failed: 12005
+[20:23:45.1740889] [Connection Request] Sending Failed: 12005
+[20:23:51.2415831] [Connection Request] Sending Failed: 12005
+[20:23:57.3108011] [Connection Request] Sending Failed: 12005
+[20:24:03.3741004] [Connection Request] Sending Failed: 12005
+[20:24:09.4417769] [Connection Request] Sending Failed: 12005
+[20:24:15.5041998] [Connection Request] Sending Failed: 12005
+[20:24:21.5722281] [Connection Request] Sending Failed: 12005
+[20:24:27.6426185] [Connection Request] Sending Failed: 12005
+[20:24:33.7150864] [Connection Request] Sending Failed: 12005
+[20:24:39.7878417] [Connection Request] Sending Failed: 12005
+[20:24:45.8535132] [Connection Request] Sending Failed: 12005
+[20:24:51.9206790] [Connection Request] Sending Failed: 12005
+[20:24:57.9862240] [Connection Request] Sending Failed: 12005
+[20:25:04.0547405] [Connection Request] Sending Failed: 12005
+[20:25:04.3791668] [debug] Hide Interface [BattleMansionEnd]
+[20:25:04.6861005] [debug] Show Interface [GameText]
+[20:25:09.1296603] [debug] Show Interface [Authorization]
+[20:25:20.7674019] [debug] Show Interface [Loading]
+[20:25:23.7787253] [debug] Show Interface [GameText]
+[20:25:23.8038215] [debug] Show Interface [UnansweredRequests]
+[20:25:23.8047270] [debug] Show Interface [GameText]
+[20:25:39.3070283] [debug] Show Interface [MainMenu]
+[20:30:46.2301494] [debug] Show Interface [GameText]
+[20:31:38.5741967] [debug] Show Interface [GameText]
+[20:31:38.5878453] [debug] Show Interface [GameText]
+[20:31:43.6388756] [debug] Show Interface [MainMenu]
+[20:32:39.7469785] [Connection Request] Sending Failed: 12005
+[20:32:45.8112574] [Connection Request] Sending Failed: 12005
+[20:32:51.8831246] [Connection Request] Sending Failed: 12005
+[20:32:57.9467354] [Connection Request] Sending Failed: 12005
+[20:33:04.0162247] [Connection Request] Sending Failed: 12005
+[20:33:10.0837397] [Connection Request] Sending Failed: 12005
+[20:33:16.1563261] [Connection Request] Sending Failed: 12005
+[20:33:22.2299901] [Connection Request] Sending Failed: 12005
+[20:33:28.2962071] [Connection Request] Sending Failed: 12005
+[20:33:34.3684144] [Connection Request] Sending Failed: 12005
+[20:33:40.4315004] [Connection Request] Sending Failed: 12005
+[20:33:46.5062586] [Connection Request] Sending Failed: 12005
+[20:33:52.5694488] [Connection Request] Sending Failed: 12005
+[20:33:58.6387024] [Connection Request] Sending Failed: 12005
+[20:34:04.7081465] [Connection Request] Sending Failed: 12005
+[20:34:10.7782526] [Connection Request] Sending Failed: 12005
+[20:34:16.8493549] [Connection Request] Sending Failed: 12005
+[20:34:22.9203168] [Connection Request] Sending Failed: 12005
+[20:34:28.9880463] [Connection Request] Sending Failed: 12005
+[20:34:35.0519591] [Connection Request] Sending Failed: 12005
+[20:34:41.1274364] [Connection Request] Sending Failed: 12005
+[20:34:47.1986528] [Connection Request] Sending Failed: 12005
+[20:34:53.2707060] [Connection Request] Sending Failed: 12005
+[20:34:59.3332068] [Connection Request] Sending Failed: 12005
+[20:35:05.4031310] [Connection Request] Sending Failed: 12005
+[20:35:11.4730884] [Connection Request] Sending Failed: 12005
+[20:35:17.5403854] [Connection Request] Sending Failed: 12005
+[20:35:23.6116053] [Connection Request] Sending Failed: 12005
+[20:35:29.6782298] [Connection Request] Sending Failed: 12005
+[20:35:35.7527348] [Connection Request] Sending Failed: 12005
+[20:35:41.8171075] [Connection Request] Sending Failed: 12005
+[20:35:47.8870344] [Connection Request] Sending Failed: 12005
+[20:35:53.9492528] [Connection Request] Sending Failed: 12005
+[20:36:00.0173046] [Connection Request] Sending Failed: 12005
+[20:36:06.0881376] [Connection Request] Sending Failed: 12005
+[20:36:12.1573715] [Connection Request] Sending Failed: 12005
+[20:36:18.2205127] [Connection Request] Sending Failed: 12005
+[20:36:24.2976333] [Connection Request] Sending Failed: 12005
+[20:36:30.3653110] [Connection Request] Sending Failed: 12005
+[20:36:36.4361881] [Connection Request] Sending Failed: 12005
+[20:36:42.5050911] [Connection Request] Sending Failed: 12005
+[20:36:48.5782958] [Connection Request] Sending Failed: 12005
+[20:36:54.6418329] [Connection Request] Sending Failed: 12005
+[20:37:00.7102226] [Connection Request] Sending Failed: 12005
+[20:37:06.7816627] [Connection Request] Sending Failed: 12005
+[20:37:08.0960849] [debug] Hide Interface [BattleMansionEnd]
+[20:37:08.4228478] [debug] Show Interface [GameText]
+[20:37:12.8657815] [debug] Show Interface [Authorization]
+[20:37:17.9490679] [debug] Show Interface [Authorization]
+[20:37:22.7859585] [debug] Show Interface [Authorization]
+[20:37:27.9968944] [debug] Show Interface [Loading]
+[20:37:31.0157484] [debug] Show Interface [GameText]
+[20:37:31.0419312] [debug] Show Interface [UnansweredRequests]
+[20:37:31.0428225] [debug] Show Interface [GameText]
+[20:37:31.0430858] [debug] Show Interface [Vignette]
+[20:37:31.0713933] [debug] Hide Interface [Vignette]
+[20:37:50.9492041] [debug] Show Interface [GameText]
+[20:38:07.2116952] [debug] Show Interface [MainMenu]
+[20:42:24.7276005] [ERROR] Failed to load sample: uiresources/sounds/sounds/car/start_engine_car.wav [code: 2]
+[20:42:24.7295452] [debug] Show Interface [GameText]
+[20:42:31.4813129] [debug] Hide Interface [MusicPlayer]
+[20:42:48.9296785] [ERROR] Failed to load sample: uiresources/sounds/sounds/car/start_engine_car.wav [code: 2]
+[20:42:48.9307497] [debug] Show Interface [GameText]
+[20:43:04.1279464] [debug] Hide Interface [MusicPlayer]
+[20:58:10.4951909] [debug] Show Interface [Vignette]
+[20:58:54.4346245] [debug] OnDeviceInvalidate
+[20:58:55.1538037] [debug] OnDeviceRestore
+[20:58:59.4996067] [WebView] execute quit game
+[20:59:01.6083527] Session ended
